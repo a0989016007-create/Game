@@ -1,0 +1,6 @@
+{
+  "name": "Pâtisserie Tower — 法式夢幻蛋糕疊疊樂",
+  "description": "一款夢幻法式甜點屋風格的 2D 觸控蛋糕疊疊樂遊戲：掌握鐘擺繩索節奏釋放蛋糕，精準對齊觸發連擊加倍，隨層數解鎖多種法式甜點口味。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
